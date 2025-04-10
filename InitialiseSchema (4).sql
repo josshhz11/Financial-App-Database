@@ -1,4 +1,4 @@
--- Investor Table
+-- Investor Tables
 CREATE TABLE Investor (
     Phone VARCHAR(15) PRIMARY KEY,
     Name VARCHAR(100) NOT NULL,
